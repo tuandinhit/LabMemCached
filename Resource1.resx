@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="String1" xml:space="preserve">
+    <value>&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;
+&lt;meta name="Generator" content="Microsoft Word 15 (filtered medium)"&gt;
+&lt;!--[if !mso]&gt;&lt;style&gt;v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+&lt;/style&gt;&lt;![endif]--&gt;&lt;style&gt;&lt;!--
+/* Font Definitions */
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Roboto Th";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--&gt;&lt;/style&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:shapedefaults v:ext="edit" spidmax="1026" /&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:shapelayout v:ext="edit"&gt;
+&lt;o:idmap v:ext="edit" data="1" /&gt;
+&lt;/o:shapelayout&gt;&lt;/xml&gt;&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body lang="EN-US" link="#0563C1" vlink="#954F72"&gt;
+&lt;div class="WordSection1"&gt;
+&lt;p class="MsoNormal"&gt;Cám ơn bạn đã sử dụng &lt;b&gt;redmine&lt;/b&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;b&gt;&lt;span style="font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#59585A"&gt;Đinh Văn Tuấn&amp;nbsp;(M&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span lang="VI" style="font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#59585A"&gt;r&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style="font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#59585A"&gt;)&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:6.0pt;font-family:&amp;quot;MS Gothic&amp;quot;;color:#59585A"&gt; &lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#6D6D6D"&gt;Developer&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#6D6D6D"&gt;ERP Application Development Department&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:6.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:12.0pt;color:#1F497D"&gt;&lt;img width="109" height="23" style="width:1.1354in;height:.2395in" id="Picture_x0020_1" src="cid:image001.png@01D454D6.1F237920"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;b&gt;&lt;span style="font-size:9.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#58585A"&gt;VietCredit Finance Company&lt;/span&gt;&lt;/b&gt;&lt;span lang="JA" style="font-size:12.0pt;font-family:&amp;quot;MS Gothic&amp;quot;;color:#1F497D;mso-fareast-language:JA"&gt; &lt;/span&gt;&lt;span style="font-size:16.0pt;font-family:&amp;quot;Roboto Th&amp;quot;;color:#1F497D;mso-fareast-language:JA"&gt;&amp;nbsp;&lt;/span&gt;&lt;span lang="VI" style="font-size:12.0pt;color:#1F497D"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;b&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;Headquarter:&lt;/span&gt;&lt;/b&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;17&lt;/span&gt;&lt;sup&gt;&lt;span style="font-size:6.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;th&lt;/span&gt;&lt;/sup&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Floor,
+ Mipec&lt;/span&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Tower&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;,&amp;nbsp;&lt;/span&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;229&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Tay&lt;/span&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Son&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;,
+ Dong&lt;/span&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Da&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;District, Hanoi&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;b&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;HCM&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Branch:&lt;/span&gt;&lt;/b&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;9&lt;/span&gt;&lt;sup&gt;&lt;span style="font-size:6.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;th&lt;/span&gt;&lt;/sup&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;Floor,
+ Dreamplex 195 Building, 195 Dien Bien Phu, Binh Thanh District, HCMC&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#C00000"&gt;M:&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;0972.689.934&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span lang="VI" style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;|&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#0A1540"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#C00000"&gt;E:&amp;nbsp;&lt;/span&gt;&lt;u&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#7F7F7F"&gt;dinhvan.tuan@vietcredit.com.vn&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#C00000"&gt;T:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;04.6270.2127&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:gray"&gt;|&lt;/span&gt;&lt;b&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#C00000"&gt;Ext:&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#484848"&gt;2204&amp;nbsp;
+ |&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#C00000"&gt;W:&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;a href="http://www.cfc.com.vn/"&gt;&lt;span style="font-size:8.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#7F7F7F"&gt;www.vietcredit.com.vn&lt;/span&gt;&lt;/a&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:6.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#6D6D6D"&gt;“This e-mail is confidential. It may also be legally privileged. If you are not the addressee you may not copy, forward, disclose or use
+ any part of it. If you have received this message in error, please delete it and all copies from your system and notify the sender immediately by return e-mail. Internet communications cannot be guaranteed to be timely, secure, error or virus-free. The sender
+ does not accept liability for any errors or omissions.”&lt;/span&gt;&lt;span style="font-size:12.0pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+</root>
